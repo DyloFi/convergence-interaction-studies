@@ -1,6 +1,6 @@
-# interactive-plates: secondary reference
+# interactive-plates: secondary interaction studies
 
-Five interactive plates from the Convergence Claude artifacts, kept here as reference for interactions to borrow later. Level 01 is in loar-level01/loar-level01.html (byte-identical to the export, so it is not copied here twice).
+The six interactive plates from the Convergence Claude artifacts, kept here as studies of interactions to borrow later. Level 01 is in loar-level01/loar-level01.html, byte-identical to the export.
 
 **Secondary.** The overall theme for the Convergence site is the baseline (DyloFi/convergenceweb, tag baseline-2026-10-18) and the Convergence II page (public/convergence-ii.html on main). These plates do not set the look of the site. Their colour, dense text and figure labels break the design spec (zero text, zero colour, layout alone carries mood). Borrow their interaction mechanics, not their styling.
 
